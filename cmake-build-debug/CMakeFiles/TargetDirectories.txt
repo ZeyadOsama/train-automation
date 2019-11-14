@@ -1,0 +1,3 @@
+/Users/zeyadosama/CLionProjects/Train-Automation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zeyadosama/CLionProjects/Train-Automation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zeyadosama/CLionProjects/Train-Automation/cmake-build-debug/CMakeFiles/Train_Automation.dir
