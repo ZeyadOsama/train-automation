@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
   "/Users/zeyadosama/CLionProjects/Train-Automation/main.c" "/Users/zeyadosama/CLionProjects/Train-Automation/cmake-build-debug/CMakeFiles/Train_Automation.dir/main.c.o"
+  "/Users/zeyadosama/CLionProjects/Train-Automation/train.c" "/Users/zeyadosama/CLionProjects/Train-Automation/cmake-build-debug/CMakeFiles/Train_Automation.dir/train.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

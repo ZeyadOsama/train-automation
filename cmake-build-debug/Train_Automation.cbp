@@ -81,6 +81,12 @@
 		<Unit filename="/Users/zeyadosama/CLionProjects/Train-Automation/main.c">
 			<Option target="Train_Automation"/>
 		</Unit>
+		<Unit filename="/Users/zeyadosama/CLionProjects/Train-Automation/train.c">
+			<Option target="Train_Automation"/>
+		</Unit>
+		<Unit filename="/Users/zeyadosama/CLionProjects/Train-Automation/train.h">
+			<Option target="Train_Automation"/>
+		</Unit>
 		<Unit filename="/Users/zeyadosama/CLionProjects/Train-Automation/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

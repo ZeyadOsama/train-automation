@@ -150,6 +150,33 @@ main.c.s:
 	$(MAKE) -f CMakeFiles/Train_Automation.dir/build.make CMakeFiles/Train_Automation.dir/main.c.s
 .PHONY : main.c.s
 
+train.o: train.c.o
+
+.PHONY : train.o
+
+# target to build an object file
+train.c.o:
+	$(MAKE) -f CMakeFiles/Train_Automation.dir/build.make CMakeFiles/Train_Automation.dir/train.c.o
+.PHONY : train.c.o
+
+train.i: train.c.i
+
+.PHONY : train.i
+
+# target to preprocess a source file
+train.c.i:
+	$(MAKE) -f CMakeFiles/Train_Automation.dir/build.make CMakeFiles/Train_Automation.dir/train.c.i
+.PHONY : train.c.i
+
+train.s: train.c.s
+
+.PHONY : train.s
+
+# target to generate assembly for a file
+train.c.s:
+	$(MAKE) -f CMakeFiles/Train_Automation.dir/build.make CMakeFiles/Train_Automation.dir/train.c.s
+.PHONY : train.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -162,6 +189,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... train.o"
+	@echo "... train.i"
+	@echo "... train.s"
 .PHONY : help
 
 

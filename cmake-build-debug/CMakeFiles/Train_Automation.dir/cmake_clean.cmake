@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Train_Automation.dir/main.c.o"
+  "CMakeFiles/Train_Automation.dir/train.c.o"
   "Train_Automation"
   "Train_Automation.pdb"
 )
